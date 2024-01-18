@@ -28,3 +28,10 @@ Este script puede ser integrado con Jenkins para realizar pruebas de estrés de 
 
    ```bash
     python /ruta/a/tu/script.py
+
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="200"/>
+</div>
+
+                                                   **Stefania Paz**
